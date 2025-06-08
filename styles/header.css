@@ -14,6 +14,13 @@ header .container {
   gap: 2rem;
 }
 
+#profile img {
+  width: 11rem;
+  height: 11rem;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
 #profile > div {
   max-width: 24rem;
   margin: 4px 0;
