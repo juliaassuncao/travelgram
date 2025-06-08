@@ -35,3 +35,13 @@ a:hover {
   color: var(--brand-color);
   text-decoration: underline;
 }
+
+.container {
+  padding-inline: 2rem;
+  margin-inline: auto;
+  max-width: 80rem;
+}
+
+.bg-surface-color {
+  background-color: var(--surface-color);
+}
